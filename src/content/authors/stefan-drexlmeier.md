@@ -6,4 +6,4 @@ social:
   email: "drexlmeier@kompetenzzentrum-energie.info"
 ---
 
-Stefan Drexlmeier, Energiewende Oberland - Kompetenzzentrum Energie EKO e.V., Am Alten Kraftwerk 4, 82377 Penzberg
+Energiewende Oberland - Kompetenzzentrum Energie EKO e.V., Am Alten Kraftwerk 4, 82377 Penzberg
