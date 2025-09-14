@@ -30,3 +30,6 @@ um Existenzbedürfnisse befriedigen zu können.
 Diese Webseite hat das Ziel die Bevölkerung im Oberland (und darüber hinaus)
 **für die Relevanz dieser Thematik zu sensibilisieren** und den **Grad an Selbstbestimmtheit**
 zur Erfüllung der Existenzbedürfnisse zu **erhöhen**.
+
+Mehr zu den Zielen der BEO erfahren Sie im entsprechenden
+[Post](https://buergerinitiative-energieautonomie-oberland.de/blog/ziele-beo/).
