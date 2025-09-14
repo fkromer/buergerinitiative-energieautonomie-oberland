@@ -8,7 +8,7 @@ tags: [öffentlichkeitsarbeit, buergerstiftung-energiewende-oberland, kompetenzz
 hideToc: true
 ---
 
-![Gruppenfoto vom Treffen 2028](../../assets/blog/2018-09-17_Treffen_Schneefernerhaus.png)
+![Gruppenfoto vom Treffen 2028](../../assets/blog/energiewende-oberland/2018-09-17_Treffen_Schneefernerhaus.png)
 
 # Die Energiewende gelingt nur gemeinsam – auch bei uns im Oberland!
 
