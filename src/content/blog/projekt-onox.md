@@ -106,5 +106,5 @@ Produktionspraktiken zu fördern.
 
 # Datenblatt
 
-Technische Daten zum ONOX-Traktor finden Sie im 
-[Datenblatt](../public/files/blog/projekt-onox/A5_Heft_ONOX_deutsch_digital.pdf).
+Aktuelle, technische Daten zum ONOX-Traktor ONOX-1 finden Sie auf der
+Projektwebsite [ONOX](https://www.onox.de/de/).
