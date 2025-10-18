@@ -40,7 +40,9 @@
 - `git commit`
 - `git push origin <contribution>`
 - create PR
-- iterative code edit, `git commit`, PR review loop until ready to merge
+- iterative code edit, `git commit`, PR review loop using live previews like
+  e.g. [in this PR](https://github.com/fkromer/buergerinitiative-energieautonomie-oberland/pull/1)
+  until ready to merge
 - (PR is merged using squash merging automatically.)
 
 ## Deployments (maintainer/ownder only)
