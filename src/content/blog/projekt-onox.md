@@ -1,7 +1,7 @@
 ---
 title: Projekt ONOX
 description: Bad Heilbrunn ist die erste Gemeinde im Landkreis Bad Tölz-Wolfratshausen im EnergieMonitor.
-date: 2025-10-05
+date: 2025-10-27
 categories: [Forschung, Technologie]
 author: daniel-hornung
 tags: [bad-toelz-wolfratshausen, garmisch-partenkirchen, miesbach, weilheim-schongau]
