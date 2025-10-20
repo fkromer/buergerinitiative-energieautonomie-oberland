@@ -1,6 +1,6 @@
 ---
 title: Projekt ONOX
-description: Bad Heilbrunn ist die erste Gemeinde im Landkreis Bad Tölz-Wolfratshausen im EnergieMonitor.
+description: Ein bedeutender Teil der landwirtschaftlichen Betriebe erzeugt Strom mithilfe von PV- oder Biogasanlagen, kann diesen jedoch weder effektiv nutzen noch gewinnbringend ins Netz einspeisen. ONOX bietet eine Lösung zur Nutzung und Speicherung selbst erzeugten Stroms.
 date: 2025-10-27
 categories: [Forschung, Technologie]
 author: daniel-hornung
