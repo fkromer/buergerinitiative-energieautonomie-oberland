@@ -30,7 +30,7 @@ Einsatzbereiche der Technologie sind unter anderem:
 In einigen Projekten wird die Technologie bereits eingesetzt:
 
 - [Die Mercedes-Benz Group AG hat 2024 einen 11MWh großen Stromspeicher für das Werk Rastatt bestellt.](https://www.cmblu.com/de/press-and-media/mercedes-benz-batterieprojekt-rastatt/)
-- [2023 wurde ein Stromspeicher an einen großen Solarpark in den USA (Arizone, Phoenix) ausgeliefert.](https://www.cmblu.com/de/press-and-media/srp-cmblu-desert-blume-langzeitspeicher-solarpark/)
+- [2023 wurde ein Stromspeicher an einen großen Solarpark in den USA (Arizona, Phoenix) ausgeliefert.](https://www.cmblu.com/de/press-and-media/srp-cmblu-desert-blume-langzeitspeicher-solarpark/)
 - [2023 wurde ein Stromspeicher an einen hybriden Solar- und Windpark in Östereich (Burgenland, Schattendorf) ausgeliefert.](https://www.cmblu.com/de/press-and-media/weltpremiere-solidflow-batterie-ausgeliefert/)
 - [2023 wird ein Projekt zur Transformation des Uniper-Kraftwerks Staudinger (Frankfurt) vorgestellt.](https://www.cmblu.com/de/press-and-media/uniblu-uniper-cmblu-pilotprojekt-transformation/)
 - [Das Burgenland (Österreich) hat 2022 einen 300MWh großen Stromspeicher bestellt der die Region als erste der Welt bis 2030 energieautark (Strom) und klimaneutral machen soll.](https://www.cmblu.com/de/press-and-media/neuartige-grossspeicher/)
