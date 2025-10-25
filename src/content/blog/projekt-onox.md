@@ -1,10 +1,16 @@
 ---
 title: Projekt ONOX
 description: Ein bedeutender Teil der landwirtschaftlichen Betriebe erzeugt Strom mithilfe von PV- oder Biogasanlagen, kann diesen jedoch weder effektiv nutzen noch gewinnbringend ins Netz einspeisen. ONOX bietet eine Lösung zur Nutzung und Speicherung selbst erzeugten Stroms.
-date: 2025-10-27
+date: 2025-10-20
 categories: [Forschung, Technologie]
 author: daniel-hornung
-tags: [bad-toelz-wolfratshausen, garmisch-partenkirchen, miesbach, weilheim-schongau]
+tags:
+  [
+    bad-toelz-wolfratshausen,
+    garmisch-partenkirchen,
+    miesbach,
+    weilheim-schongau,
+  ]
 hideToc: true
 ---
 
@@ -65,7 +71,7 @@ auch für die eigene Gesundheit und das Tierwohl darstellen - besonders in
 Ställen, Scheunen und Gewächshäusern. Zudem sind Diesel-Traktoren deutlich
 ineffizienter und erfordern mehr Wartung.
 
-# Vorteile für den Betrieb und Nutzer*in
+# Vorteile für den Betrieb und Nutzer\*in
 
 Umweltfreundlich und emissionsfrei trägt das ONOX-Energy-Ecosystem
 maßgeblich zur Reduktion des CO2-Ausstoßes eines Betriebes bei und mindert
