@@ -71,3 +71,9 @@ Folgende Funktionalitäten sollte der eingesetzte Heizkörperthermostat mindeste
 ![Stoßlüften bei 20 Grad und 60% rel. Luftfeuchtigkeit](../../assets/blog/heizkoerperthermostate/trocknung_innenraumluft.png)
 
 - Alle Angaben sind ohne Gewähr. Eine Haftung für die Richtigkeit der Angaben wird nicht übernommen.
+- Eine individuelle Beratung kann über die Energieberatung der Verbraucherzentrale in Anspruchgenommen werden.
+  Diese findet in Kooperation mit dem
+  [VerbraucherService Bayern](https://www.verbraucherservice-bayern.de/themen/energie/energieberatung) online,
+  telefonisch oder in einem persönlichen Gespräch statt, und ist je nach Beratungsangebot kostenfrei oder
+  kostenpflichtig (30 Euro). Die Energie-Fachleute beraten anbieterunabhängig und individuell. Für einkommensschwache
+  Haushalte mit entsprechendem Nachweis sind alle Beratungsangebote kostenfrei.
