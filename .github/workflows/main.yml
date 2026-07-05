@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: 🚚 Get code from repo
         uses: actions/checkout@v7
-        ref: website
+        with:
+          ref: website
 #      - name: Lint markdown
 #        uses: rvben/rumdl@v0
       - name: 🔨 Install, build, and upload your site output
