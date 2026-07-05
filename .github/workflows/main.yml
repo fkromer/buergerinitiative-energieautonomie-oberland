@@ -1,0 +1,38 @@
+name: 🚀 Deploy website on push
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get code from repo
+        uses: actions/checkout@v6
+      - name: Lint markdown
+        uses: rvben/rumdl@v0
+      - name: 🔨 Install, build, and upload your site output
+        # https://github.com/withastro/action
+        uses: withastro/action@v6
+        with:
+          path: .
+          node-version: 24
+          # package-manager: pnpm@latest # The Node package manager that should be used to install dependencies and build your site. Automatically detected based on your lockfile. (optional)
+          # build-cmd: pnpm run build # The command to run to build your site. Runs the package build script/task by default. (optional)
+          out-dir: dist
+      - name: 📂 Sync files
+        # https://github.com/SamKirkland/FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: www679.your-server.de
+          username: ahm5ey_0
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./dist/
+          # generic hetzner ftps user has /public_html root and access rights configured
+          server-dir: buergerinitiative-energieautonomie-oberland/
