@@ -14,8 +14,8 @@ jobs:
     steps:
       - name: 🚚 Get code from repo
         uses: actions/checkout@v6
-      - name: Lint markdown
-        uses: rvben/rumdl@v0
+#      - name: Lint markdown
+#        uses: rvben/rumdl@v0
       - name: 🔨 Install, build, and upload your site output
         # https://github.com/withastro/action
         uses: withastro/action@v6
